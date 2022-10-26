@@ -4,5 +4,35 @@
     "courseName": "Web Development",
     "courseImage": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?size=626&ext=jpg",
     "description": "Learn Full Stack Web Development at this course. This course is Beginner to Advanced crash course. We will teach you NoSQL MERN (MongoDb, Express.Js, React.Js and Node.JS) Stack Development."
+  },
+  {
+    "id": 2,
+    "courseName": "Wordpress",
+    "courseImage": "https://img.freepik.com/premium-photo/top-view-coffee-cup-keyboard-with-wordpress-inscription-table_488220-9430.jpg?size=626&ext=jpg&ga=GA1.2.1505137566.1664382249&semt=sph",
+    "description": "Learn Wordpress at this course. This course is Beginner to Advanced crash course. Learn wordpress build your projects quickly."
+  },
+  {
+    "id": 3,
+    "courseName": "Graphic Design",
+    "courseImage": "https://img.freepik.com/free-vector/graphic-designer-isometric-landing-page-banner_107791-2564.jpg?size=626&ext=jpg&ga=GA1.2.1505137566.1664382249&semt=sph",
+    "description": "Learn Graphic Design at this course. This course is Beginner to Advanced crash course. Learn Graphic Design and buil your awesome projects"
+  },
+  {
+    "id": 4,
+    "courseName": "HSC ICT",
+    "courseImage": "https://img.freepik.com/free-photo/opened-book-yellow-background-with-clock-form-apple-near-it_1268-19880.jpg?size=626&ext=jpg",
+    "description": "To make a good result you can enroll this course. Know deeply about Information And Technology from this course."
+  },
+  {
+    "id": 5,
+    "courseName": "Photography",
+    "courseImage": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?size=626&ext=jpg",
+    "description": "Learn Photography perfectly to grab your opportunity. In this course we will teach you about Photography perfectly."
+  },
+  {
+    "id": 6,
+    "courseName": "Mathematics HSC",
+    "courseImage": "https://img.freepik.com/free-vector/mathematical-geometric-background-vector-gradient-blue-education-remix_53876-114100.jpg?size=626&ext=jpg&ga=GA1.2.1505137566.1664382249&semt=sph",
+    "description": "We will teach you all topics of your Mathematics Book. We have special class on Calculas for you. Both first and second paper included."
   }
 ]
