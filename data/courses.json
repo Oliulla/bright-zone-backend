@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "courseName": "Web Development",
+    "courseImage": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?size=626&ext=jpg",
+    "description": "Learn Full Stack Web Development at this course. This course is Beginner to Advanced crash course. We will teach you NoSQL MERN (MongoDb, Express.Js, React.Js and Node.JS) Stack Development."
+  }
+]
